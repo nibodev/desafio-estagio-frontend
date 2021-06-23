@@ -1,0 +1,55 @@
+.header-1 {
+    background-color: #FFFFFF;
+    height: 50px;
+}
+
+.blackFriday {
+    border: 0in;
+    width: 600;
+}
+
+.live {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #F0F0F0;
+    width: 670;
+    color: #61686A;
+}
+
+.check {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #FFFFFF;
+    color: #61686A;
+}
+
+#botao { text-align: center }
+.botao{
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    padding: 15px 15px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #FFC200;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #313336;
+    width: 650;
+    text-align: center;
+}
+
+.conteudoInicial {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: #FFFFFF;
+    color: #61686A;
+}
+
+.conteudoFinal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: #61686A;
+}
